@@ -1,0 +1,10 @@
+server:
+  port: 8080
+movie:
+  api:
+    base-url: https://api.themoviedb.org/3
+    key: YOUR_API_KEY
+    now-playing-endpoint: /movie/now_playing
+    language: es-ES
+    region: AR
+    page: 1
